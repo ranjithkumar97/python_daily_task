@@ -1,6 +1,3 @@
-import b as b
-
-
 def add_sub(x,y):
     c=x+y
     d=x-y
